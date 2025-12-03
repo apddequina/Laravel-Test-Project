@@ -1,0 +1,2 @@
+<img src="<?php echo e(asset('logo/support-ticket-logo.png')); ?>" width="100px" alt="">
+<?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/Support Ticket Project/support-ticket-app/resources/views/components/application-logo.blade.php ENDPATH**/ ?>
