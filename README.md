@@ -122,3 +122,5 @@ php artisan view:cache
 📞 Contact
 
 If you have questions about the setup, please feel free to reach out.
+Contact #: 0 52 308 1015
+WhatsApp: +639190850544
